@@ -186,6 +186,7 @@ sap-financial-data-analysis/
 │
 ├── Dataset/
 ├── Notebook/
+├── Random Data Generation Script/
 ├── README.md
 ```
 
